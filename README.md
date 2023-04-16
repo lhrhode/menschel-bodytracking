@@ -13,9 +13,12 @@ give explanation and link to Menschel fellowship
 The program culminates in an annual exhibition and gala opening. Each project contributes to a [catalog](https://cooper.edu/academics/research-fellowships/menschel-catalogs). Our project is recorded in the [2023 Menschel Fellowship Exhibition Catalog](https://cooper.edu/sites/default/files/uploads/assets/development/menschel%20catalogue_ML.pdf).
 ![Copy of Menschel_Exhibition076](https://user-images.githubusercontent.com/71452451/231519182-ca767fbe-f395-4e59-a82e-5c7bd3d6bc57.jpg)
 
-[![levid](https://user-images.githubusercontent.com/71452451/231525109-32840cab-2133-4308-aad7-2e6233eec87b.mp4)
+https://user-images.githubusercontent.com/71452451/232334562-6d3f6b3f-acc0-45cc-adcb-5e1986529246.mp4
+
+
 
 # Digital Movement Exhibition
+
 give intro to mililab and purpose of exhibition
 
 # Processing and Kinect V2 SetUp
