@@ -5,20 +5,22 @@ This project is a result of the Cooper Union's Benjamin Menschel Fellowship Prog
 
 On this repo, you will find documentation of this projects exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such you can build similar projects that connect Kinect's body-tracking to Processing graphics.
 
-# Menschel Fellowship Exhibition
-give explanation and link to Menschel fellowship
+[![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
 
+# Menschel Fellowship Exhibition
 [The Benjamin Menshel Fellowship Program](https://cooper.edu/academics/research-fellowships/benjamin-menschel-fellowship-program) supports interdisciplinary work in the fields of art, architecture, design, and engineering and funding to students who propose scholarly, independent projects to expore creative inquiry in their education endeavors at The Cooper Union.
 
 The program culminates in an annual exhibition and gala opening. Each project contributes to a [catalog](https://cooper.edu/academics/research-fellowships/menschel-catalogs). Our project is recorded in the [2023 Menschel Fellowship Exhibition Catalog](https://cooper.edu/sites/default/files/uploads/assets/development/menschel%20catalogue_ML.pdf).
 ![Copy of Menschel_Exhibition076](https://user-images.githubusercontent.com/71452451/231519182-ca767fbe-f395-4e59-a82e-5c7bd3d6bc57.jpg)
 
-[![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
-
 
 # Digital Movement Exhibition
+![civics-doc-46](https://user-images.githubusercontent.com/71452451/232956643-9c1e74df-d4fe-4a30-b9cb-085809c439dd.jpg)
+Much of this work was supported by Cooper Union's [miliLab](http://faculty.cooper.edu/mili/miliLab/index.html) and Prof. Dr. Mili Shah. This project was presented again that miliLab's Digital Movement Exhibition, an exhibition funded by the Cooper Union Presidential Grant to present the work and research conducted by the students of miliLab and present bodytracking technologies to the wider public.
 
-give intro to mililab and purpose of exhibition
+<img src="https://user-images.githubusercontent.com/71452451/232956577-294b0f61-b825-4526-833b-7777d2e8071e.jpg" width="400"> <img src="https://user-images.githubusercontent.com/71452451/232956604-9d790fa0-b742-4fe5-b8a2-04866bbbe649.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/71452451/232956675-1d6aaa78-2791-44e4-83c2-869b474b91f1.jpg" width="400"> <img src="https://user-images.githubusercontent.com/71452451/232956680-ae278078-8efe-40d2-bfd3-c592b8966c46.jpg" width="400">
+
 
 # Processing and Kinect V2 SetUp
 explain what is processing is, include link
