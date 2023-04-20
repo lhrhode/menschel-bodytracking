@@ -6,9 +6,9 @@ This project came out of a desire to explore the posibilities of interactivity b
 On this repo, you will find documentation of this projects exhibition at the Lubalin Gallery as part of the Menschel Fellowship exhibit and in the Civic Projects Lab as part of miliLab's Digital Movement exhibit. You will also find set up instructions and resources such that you can build similar projects which utilize Kinect's body-tracking with Processing graphics.
 
 Table of Contents
-- [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/main/README.md)
-- [Digital Movement Exhibition](https://github.com/lhrhode/menschel-bodytracking/main/README.md#digital-movement-exhibition)
-- [Processing and Kinect V2 SetUp](https://github.com/lhrhode/menschel-bodytracking/main/README.md#processing-and-kinect-v2-setup) 
+- [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
+- [Digital Movement Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#digital-movement-exhibition)
+- [Processing and Kinect V2 SetUp](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#processing-and-kinect-v2-setup) 
 
 [![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
 
