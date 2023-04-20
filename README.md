@@ -16,7 +16,7 @@ The program culminates in an annual exhibition and gala opening. Each project co
 
 # Digital Movement Exhibition
 ![civics-doc-46](https://user-images.githubusercontent.com/71452451/232956643-9c1e74df-d4fe-4a30-b9cb-085809c439dd.jpg)
-Much of this work was supported by Cooper Union's [miliLab](http://faculty.cooper.edu/mili/miliLab/index.html) and Prof. Mili Shah. This project was presented again that miliLab's Digital Movement Exhibition, an exhibition funded by the Cooper Union Presidential Grant to present the work and research conducted by the students of miliLab and present bodytracking technologies to the wider public.
+Much of this work was supported by Cooper Union's [miliLab](http://faculty.cooper.edu/mili/miliLab/index.html) and Prof. Mili Shah. This project was presented again at miliLab's Digital Movement Exhibition, an exhibition funded by the Cooper Union Presidential Grant to present the work and research conducted by the students of miliLab and present bodytracking technologies to the wider public.
 
 <img src="https://user-images.githubusercontent.com/71452451/232956577-294b0f61-b825-4526-833b-7777d2e8071e.jpg" width="400"> <img src="https://user-images.githubusercontent.com/71452451/232956604-9d790fa0-b742-4fe5-b8a2-04866bbbe649.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/71452451/232956675-1d6aaa78-2791-44e4-83c2-869b474b91f1.jpg" width="400"> <img src="https://user-images.githubusercontent.com/71452451/232956680-ae278078-8efe-40d2-bfd3-c592b8966c46.jpg" width="400">
