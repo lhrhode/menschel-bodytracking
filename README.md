@@ -1,4 +1,4 @@
-# menschel-bodytracking
+# Reflections on Dance, Mobility, and Bodytracking
 ![Menschel_Exhibition073 (1)](https://user-images.githubusercontent.com/71452451/231338377-55c37385-0db7-4615-b4f7-b393ede7495b.jpg)
 
 This project is a result of the Cooper Union's Benjamin Menschel Fellowship Program and came out of desire to reflect on the intersection of dance, body tracking technology and mobility and explore the posibilities of interactivity between dancers and bodytracking technology in performance. We investigate current use of technology for dance performances resulting in an interactive installation which connected the Kinect body tracking and generative visual graphics using Processing, a graphical library and programming language. The project exposed some limitations in access to hardware components of body tracking such as the Kinect camera.
