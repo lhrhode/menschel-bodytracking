@@ -8,7 +8,7 @@ On this repo, you will find documentation of this projects exhibition at the Lub
 Table of Contents
 - [Menschel Fellowship Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#menschel-fellowship-exhibition)
 - [Digital Movement Exhibition](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#digital-movement-exhibition)
-- [Processing and Kinect V2 SetUp](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#processing-and-kinect-v2-setup) 
+- [Processing and Kinect V2 Set Up](https://github.com/lhrhode/menschel-bodytracking/blob/main/README.md#processing-and-kinect-v2-set-up) 
 
 [![github_minah](https://user-images.githubusercontent.com/71452451/232954180-97ce6a55-4aaa-4298-8c01-09a1279b4769.png)](https://www.youtube.com/watch?v=XrtT-O2CED0)
 
@@ -27,7 +27,7 @@ Much of this work was supported by Cooper Union's [miliLab](http://faculty.coope
 <img src="https://user-images.githubusercontent.com/71452451/232956675-1d6aaa78-2791-44e4-83c2-869b474b91f1.jpg" width="400"> <img src="https://user-images.githubusercontent.com/71452451/232956680-ae278078-8efe-40d2-bfd3-c592b8966c46.jpg" width="400">
 
 
-# Processing and Kinect V2 SetUp
+# Processing and Kinect V2 Set Up
 [Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists and also in the generative art world. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
 
 Here we will go over the tldr of how to set up Processing and start using Kinect V2 though it is worth checking out the embedded links.
