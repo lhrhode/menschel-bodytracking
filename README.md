@@ -28,12 +28,9 @@ Much of this work was supported by Cooper Union's [miliLab](http://faculty.coope
 
 
 # Processing and Kinect V2 SetUp
-explain what is processing is, include link
+[Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
 
-This is the best tutorial to follow (https://mikebridge.github.io/post/kinect-and-processing/)
-Mike Bridge’s blog uses Thomas Sanchez Lengeling’s Processing Library for using the Kinect V2
-
-Thomas Sanchez Lengeling’s Processing Library requires Processing 3 (https://github.com/ThomasLengeling/KinectPV2)
+Here we will go over the tldr of how to set up Processing and start using Kinect V2 as well as how to
 
 Explain how Kinect V2 is out of production and the only way to get it is second hand on ebay or amazon
 
