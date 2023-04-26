@@ -28,10 +28,23 @@ Much of this work was supported by Cooper Union's [miliLab](http://faculty.coope
 
 
 # Processing and Kinect V2 SetUp
-[Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
+[Processing](https://processing.org/) is a software sketchbook and language based on Java commonly used by visual artists and also in the generative art world. The language has a library for using Microsoft's Kinect V2. The best tutorial to follow to set up Processing with Kinect is on [Mike Bridge's blog](https://mikebridge.github.io/post/kinect-and-processing/). This tutorial uses [Thomas Sanches Lengeling's Processing Library for using the Kinect V2](https://github.com/ThomasLengeling/KinectPV2).
 
-Here we will go over the tldr of how to set up Processing and start using Kinect V2 as well as how to
+Here we will go over the tldr of how to set up Processing and start using Kinect V2 though it is worth checking out the embedded links.
 
-Explain how Kinect V2 is out of production and the only way to get it is second hand on ebay or amazon
+It is important to note that the Kinect V2 is out of production and the only way to get it is second hand on Ebay or on Amazon
+
+**Requirements:**
+- Window 10
+- Kinect V2 (Kinect for Xbox One and the Kinect 2.0 Adapter for Windows PC)
+- Kinect SDK 2.0
+- Processing 3.0
+
+First step is to download and install [Processing 3.0](https://processing.org/releases).
+Then, once you have access to the necessary hardware (the Kinect for XBox One V2 and its adapter), download the [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561). Once the Kinect for Windows SDK has completed installing, connect the Kinect sensor to a power outlet and then plug the USB cable to your computer. The necessary drivers should begin installation automatically. Then use the Kinect for Windows SDK to ensure, your Kinect is detected and works properly.
+
+Once your Kinect is set up, launch Processing from processing.exe. From the _Sketch_, navigate from _Import Library_ to _Add Library_ and search for _Kinect v2 for Processing_.
+
+add hello world code for processing and kinect
 
 Give explanation on how to access joint info
